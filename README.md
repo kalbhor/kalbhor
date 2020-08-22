@@ -1,5 +1,5 @@
 ### Hi there 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kalbhor&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=contribs,prs" width=460>
-<strong>I'm a software engineer from India, about to graduate Summer'21.</strong>
+<strong>I'm a software engineer from India, about to graduate summer'21.</strong>
 
 Find out more about me on my [website](http://kalbhor.xyz)
 
