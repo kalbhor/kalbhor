@@ -2,11 +2,11 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kalbhor&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=contribs,prs" width=460>
 
-<strong>I'm a software engineer from India, about to graduate summer'21.</strong>
+<strong>I'm a software engineer from India, about to graduate Summer'21.</strong>
 
 Find out more about me on my [website](http://kalbhor.xyz)
 
-*If you think I can add value to your project, [contact me](mailto:lakshaykalbhor@gmail.com). I'm actively looking for an internship/job*
+*If you think I can add value to your project, [contact me](mailto:lakshaykalbhor@gmail.com)*
 
 
 <!--
