@@ -6,7 +6,6 @@
 
 Find out more about me on my [website](http://kalbhor.xyz)
 
-*If you think I can add value to your project, [contact me](mailto:lakshaykalbhor@gmail.com)*
 
 
 <!--
