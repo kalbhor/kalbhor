@@ -10,6 +10,4 @@
 Find out more about me on my [website](http://kalbhor.xyz)
 
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=kalbhor&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=contribs,prs" width=460>
-
 
