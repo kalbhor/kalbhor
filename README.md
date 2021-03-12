@@ -1,24 +1,15 @@
 ### Hi there 👋 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=kalbhor&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=contribs,prs" width=460>
+<strong>I'm a Software Engineer from India, about to graduate Summer'21.</strong>
 
-<strong>I'm a software engineer from India, about to graduate Summer'21.</strong>
+- 🔭 I’m currently working on : Async IO Python and Cassandra
+- 👯 I’m looking to collaborate on : Go, Async IO Python
+- 🤔 I’m looking for help with : Building ML model serving layers that run at scale
+- 😄 Pronouns: He/Him
 
 Find out more about me on my [website](http://kalbhor.xyz)
 
 
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=kalbhor&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=contribs,prs" width=460>
 
-<!--
-**kalbhor/kalbhor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
