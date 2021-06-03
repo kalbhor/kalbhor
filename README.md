@@ -1,13 +1,10 @@
-### Hi there 👋 
+## [kalbhor.xyz](http://kalbhor.xyz)
 
-<strong>I'm a Software Engineer from India, about to graduate Summer'21.</strong>
-
-- 🔭 I’m currently working on : Async IO Python and Cassandra
-- 👯 I’m looking to collaborate on : Go, Async IO Python
-- 🤔 I’m looking for help with : Building ML model serving layers that run at scale
-- 😄 Pronouns: He/Him
-
-Find out more about me on my [website](http://kalbhor.xyz)
-
+I believe in picking the right tools.
+Tech I've worked with over the years :
+- Python : Lots of scripting, tiny projects, web services, SOA experience writing in Flask, Sanic, Django.. 
+- Go : Scripting, tools, packages and dabbled with deeper async level thinking. Perfect match of freedom + reduced confusing choices. 
+- Bash : For fun stuff
+- AWS : I self host my website, VPN, etc here.
 
 
