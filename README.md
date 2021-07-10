@@ -1,6 +1,3 @@
 ## [kalbhor.xyz](http://kalbhor.xyz)
 
-hackerman
-
-
-
+Interested in Go & Networking concepts
